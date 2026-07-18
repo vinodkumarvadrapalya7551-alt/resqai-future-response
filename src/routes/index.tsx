@@ -11,19 +11,19 @@ export const Route = createFileRoute("/")({
         content:
           "ResQAI is the AI-driven command layer for crisis management — unifying prediction, dispatch, evacuation and care across every second of an emergency.",
       },
-      { property: "og:title", content: "ResQAI — AI-Driven Crisis Management" },
+      { property: "og:title", content: "ResQAI — Predict earlier. Respond faster. Save more lives." },
       {
         property: "og:description",
         content:
-          "Predict earlier. Respond faster. Save more lives. The future of emergency response has arrived.",
+          "ResQAI is the AI-driven command layer for crisis management — unifying prediction, dispatch, evacuation and care across every second of an emergency.",
       },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
-      { name: "twitter:title", content: "ResQAI — AI-Driven Crisis Management" },
+      { name: "twitter:title", content: "ResQAI — Predict earlier. Respond faster. Save more lives." },
       {
         name: "twitter:description",
         content:
-          "Predict earlier. Respond faster. Save more lives.",
+          "ResQAI is the AI-driven command layer for crisis management — unifying prediction, dispatch, evacuation and care across every second of an emergency.",
       },
     ],
   }),
